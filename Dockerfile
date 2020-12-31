@@ -1,6 +1,6 @@
 # Dockerfile: hombre-node
 
-FROM node:14.3.0-alpine3.11
+FROM node:15.5.0-alpine3.12
 
 ARG version
 
